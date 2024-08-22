@@ -79,7 +79,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2023.02 | **Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction** |   biorxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.01.31.526427v1) |                             [link](https://github.com/chenkenbio/SpliceBERT)                               |
 
 
-
+### Quantization
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.06 | **Low-Rank Quantization-Aware Training for LLMs** |    arXiv  | [link](https://arxiv.org/abs/2406.06385) | [link](https://github.com/Qualcomm-AI-research/lr-qat) |
 
 
 ### Fine-tuning
@@ -102,7 +105,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 ## Contributors
 
-<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/87766116?v=4" alt="ychuest" width="96" height="96"/></a> 
+<a href="https://github.com/ychuest" target="_blank"><img src="https://avatars.githubusercontent.com/u/87766116?v=4" alt="ychuest" width="96" height="96"/></a> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
