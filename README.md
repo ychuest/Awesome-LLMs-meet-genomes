@@ -5,8 +5,8 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## 🔔 News
 
 - 💥 [2024/08] Some real-world experience in training LLMs [link](https://mp.weixin.qq.com/s/ItpCTCcMjTWQJtgpvdwTfw).
-- 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA)
-- 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g)
+- 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA).
+- 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g).
 
 
 ## Papers
@@ -22,8 +22,8 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.04 | **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome** |   ICLR'24    | [link](https://openreview.net/pdf?id=oMLQB4EZE1)  |                              [link](https://github.com/MAGICS-LAB/DNABERT_2)                               |
 | 2023.01 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2024.02 | **GenomicLLM: Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)  |                                            -                |
-| 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             https://github.com/evo-design/evo                |
-| 2023.08 | **DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks** |   bioRxiv    | [link](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)  |                                             https://github.com/TencentAILabHealthcare/DNAGPT                |
+| 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             [link](https://github.com/evo-design/evo)                |
+| 2023.08 | **DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks** |   bioRxiv    | [link](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)  |                                             [link](https://github.com/TencentAILabHealthcare/DNAGPT)                |
 | 2023.08 | **Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision** |    arxiv   | [link](https://arxiv.org/abs/2311.02333)  |                              [link](https://github.itap.purdue.edu/Clan-labs/ENBED)                               |
 | 2023.07 | **EpiGePT: a Pretrained Transformer model for epigenomics** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v2)  |                              [link](https://github.com/ZjGaothu/EpiGePT)                               |
 | 2023.06 | **Transfer learning enables predictions in network biology** |   nature   | [link](https://www.nature.com/articles/s41586-023-06139-9)  |                              [link](https://github.com/jkobject/geneformer)                               |
