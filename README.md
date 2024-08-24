@@ -46,6 +46,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2021.10 | **Effective gene expression prediction from sequence by integrating long-range interactions** |   Nature Methods    | [link](https://www.nature.com/articles/s41592-021-01252-x) |                              [link](https://github.com/deepmind/deepmind-research/tree/master/enformer)                               |
 
 
+### Perturbation
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 | **Enhancing generative perturbation models with LLM-informed gene embeddings** |    arXiv  | [link](https://openreview.net/pdf?id=eb3ndUlkt4) | - |
 
 
 
@@ -100,6 +104,9 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models** |    ICML'24  | [link](https://openreview.net/forum?id=JCG0KTPVYy) | [link](https://github.com/shiliu-egg/ICML2024_COFT) |
+
+
+
 
 
 
