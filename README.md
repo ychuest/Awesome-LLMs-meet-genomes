@@ -49,7 +49,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Perturbation
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.07 | **Enhancing generative perturbation models with LLM-informed gene embeddings** |    arXiv  | [link](https://openreview.net/pdf?id=eb3ndUlkt4) | - |
+| 2024.07 | **Enhancing generative perturbation models with LLM-informed gene embeddings** |    ICLR'24 Workshop   | [link](https://openreview.net/pdf?id=eb3ndUlkt4) | - |
 
 
 
