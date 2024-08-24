@@ -52,7 +52,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.08 | **Scouter: a transcriptional response predictor for unseen genetic perturbtions with LLM embeddings** |    pypi   | [link](https://pypi.org/project/scouter-learn/) | [link](https://github.com/PancakeZoy/scouter/tree/master) |
 | 2024.07 | **Enhancing generative perturbation models with LLM-informed gene embeddings** |    ICLR'24 Workshop   | [link](https://openreview.net/pdf?id=eb3ndUlkt4) | - |
-| 2024.03 | **A genome-scale deep learning model to predict gene expression changes of genetic perturbations from multiplex biological networks** |    arXiv   | [link](https://arxiv.org/abs/2403.02724) | - |
+| 2024.03 | **A genome-scale deep learning model to predict gene expression changes of genetic perturbations from multiplex biological networks** |    arXiv   | [link](https://arxiv.org/abs/2403.02724) | [link](https://github.com/lipi12q/TranscriptionNet) |
 
 
 
