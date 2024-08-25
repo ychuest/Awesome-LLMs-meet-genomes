@@ -10,6 +10,7 @@
 # Awesome-LLMs-meet-genomes
 
 Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting LLMs methods on genomes.  It contains papers, codes, datasets, evaluations, and analyses. Any additional information about LLMs for bioinformatics is welcome, and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yangchengyjs@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
+
 -----------------------------------
 [![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
