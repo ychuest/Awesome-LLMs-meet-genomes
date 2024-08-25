@@ -23,7 +23,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 - 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA).
 - 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g).
 - 🌟 [2024/08] The Cultivation Method of Large Language Models: A Path to Success [link](https://github.com/wdndev/llm_interview_note).
-- 📖 [2024/08] Large Language Models: From Theory to Practice [link](https://ychuest.github.io/Awesome-LLMs-meet-genomes/docs/1.pdf).
+- 📖 [2024/08] Large Language Models: From Theory to Practice [link](./docs/1.pdf).
 
 
 ## Important Survey Papers
