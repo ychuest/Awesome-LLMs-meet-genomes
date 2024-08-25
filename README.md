@@ -1,6 +1,20 @@
+[python-img]: https://img.shields.io/github/languages/top/ychuest/Awesome-LLMs-meet-genomes?color=lightgrey
+[stars-img]: https://img.shields.io/github/stars/ychuest/Awesome-LLMs-meet-genomes?color=yellow
+[stars-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes/stargazers
+[fork-img]: https://img.shields.io/github/forks/ychuest/Awesome-LLMs-meet-genomes?color=lightblue&label=fork
+[fork-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ychuest/Awesome-LLMs-meet-genomes
+[adgc-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes
+
+
 # Awesome-LLMs-meet-genomes
 
 Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting LLMs methods on genomes.  It contains papers, codes, datasets, evaluations, and analyses. Any additional information about LLMs for bioinformatics is welcome, and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yangchengyjs@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
+-----------------------------------
+[![Made with Python][python-img]][adgc-url]
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
 
 ## 🔔 News
 
@@ -8,6 +22,18 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 - 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA).
 - 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g).
 - 🌟 [2024/08] The Cultivation Method of Large Language Models: A Path to Success [link](https://github.com/wdndev/llm_interview_note).
+
+
+## Important Survey Papers
+
+| Year | Title                                                        |    Venue    |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2024.07 | **Genomic Language Models: Opportunities and Challenges** |    arXiv   | [Link](https://arxiv.org/abs/2407.11435) |  - |
+| 2024.07 | **Scientific Large Language Models: A Survey on Biological & Chemical Domains** |    arXiv   | [Link](https://arxiv.org/abs/2401.14656) |  [link](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
+| 2024.01 | **Large language models in bioinformatics: applications and perspectives** |    arXiv    | [Link](https://arxiv.org/abs/2401.04155v1) |  - |
+| 2023.11 | **To Transformers and Beyond: Large Language Models for the Genome** |    arXiv    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
+| 2023.01 | **Applications of transformer-based language models in bioinformatics: a survey** |    Bioinformatics Advances    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
+
 
 
 ## Papers
@@ -20,11 +46,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### General
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 | **Scorpio : Enhancing Embeddings to Improve Downstream Analysis of DNA sequences** |  bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.07.19.604359v1.abstract)  |                              [link](https://github.com/EESI/Scorpio)                            |
 | 2024.07 | **DNA language model GROVER learns sequence context in the human genome (可用于蛋白质-DNA结合预测任务)** |   Nature Machine Intelligence    | [link](https://doi.org/10.1038/s42256-024-00872-0)  |                              [link](https://doi.org/10.5281/zenodo.8373202)   [tutorials](https://doi.org/10.5281/zenodo.8373158)                            |
 | 2024.04 | **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome** |   ICLR'24    | [link](https://openreview.net/pdf?id=oMLQB4EZE1)  |                              [link](https://github.com/MAGICS-LAB/DNABERT_2)                               |
-| 2023.01 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
+| 2024.04 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2024.02 | **GenomicLLM: Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)  |                                            -                |
 | 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             [link](https://github.com/evo-design/evo)                |
+| 2024.01 | **ProkBERT family: genomic language models for microbiome applications** |    Frontiers in Microbiology    | [Link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1331233/full) |  [link](https://github.com/nbrgppcu/prokbert)   |
 | 2023.08 | **DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks** |   bioRxiv    | [link](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)  |                                             [link](https://github.com/TencentAILabHealthcare/DNAGPT)                |
 | 2023.08 | **Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision** |    arxiv   | [link](https://arxiv.org/abs/2311.02333)  |                              [link](https://github.itap.purdue.edu/Clan-labs/ENBED)                               |
 | 2023.07 | **EpiGePT: a Pretrained Transformer model for epigenomics** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.07.15.549134v2)  |                              [link](https://github.com/ZjGaothu/EpiGePT)                               |
@@ -76,7 +104,9 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.04 | **Genomic language model predicts protein co-regulation and function** |   nature communications     | [link](https://www.nature.com/articles/s41467-024-46947-9)  |                               [link](https://github.com/y-hwang/gLM)                              |
+| 2024.01 | **Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training** |   arXiv    | [link](https://arxiv.org/abs/2401.09490) |                              -                               |
 | 2022.09 | **Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training** |   Interdisciplinary Sciences: Computational Life Sciences    | [link](https://link.springer.com/article/10.1007/s12539-022-00537-9) |                              [link](https://github.com/lhy0322/TFBert)                               |
+
 
 
 
