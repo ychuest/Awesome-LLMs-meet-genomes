@@ -16,7 +16,11 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 
-Visitors counts:[![visitors][visitors-img]][visitors-img]
+<p align="center"> 
+  Visitor counts<br>
+  <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
+</p>
+
 
 ## 🔔 News
 
