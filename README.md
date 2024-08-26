@@ -3,8 +3,8 @@
 [stars-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes/stargazers
 [fork-img]: https://img.shields.io/github/forks/ychuest/Awesome-LLMs-meet-genomes?color=lightblue&label=fork
 [fork-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ychuest/Awesome-LLMs-meet-genomes
-[adgc-url]: https://github.com/ychuest/Awesome-LLMs-meet-genomes
+[visitors-img]: https://profile-counter.glitch.me/Awesome-LLMs-meet-genomes/count.svg
+
 
 
 # Awesome-LLMs-meet-genomes
@@ -15,7 +15,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 [![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+[![visitors][visitors-img]][visitors-img]
 
 ## 🔔 News
 
