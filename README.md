@@ -106,7 +106,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.04 | **Genomic language model predicts protein co-regulation and function** |   nature communications     | [link](https://www.nature.com/articles/s41467-024-46947-9)  |                               [link](https://github.com/y-hwang/gLM)                              |
-| 2024.01 | **Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training** |   arXiv    | [link](https://arxiv.org/abs/2401.09490) |                              -                               |
+| 2024.01 | **Gene-associated Disease Discovery Powered by Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2401.09490) |                              -                               |
 | 2022.09 | **Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training** |   Interdisciplinary Sciences: Computational Life Sciences    | [link](https://link.springer.com/article/10.1007/s12539-022-00537-9) |                              [link](https://github.com/lhy0322/TFBert)                               |
 
 
