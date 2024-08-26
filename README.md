@@ -105,7 +105,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.02 | **Efficient and Scalable Fine-Tune of Language Models for Genome Understanding** |    arXiv  | [link](https://arxiv.org/abs/2402.08075) | [link](https://github.com/zhanglab-aim/LINGO) |
-| 2023.11 | **Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence** |    NeurIPS'23 Workshop GenBio | [link]([https://arxiv.org/abs/2402.08075](https://openreview.net/forum?id=HVQoom7ip2)) | - |
+| 2023.11 | **Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence** |    NeurIPS'23 Workshop GenBio | [link](https://openreview.net/forum?id=HVQoom7ip2) | - |
 
 
 #### Interaction Prediction
