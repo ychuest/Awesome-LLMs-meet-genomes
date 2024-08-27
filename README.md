@@ -18,7 +18,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 <p align="center"> 
   Visitor counts<br>
-  <img src="https://profile-counter.glitch.me/ychuest/count.svg" />
+  <img src="https://profile-counter.glitch.me/Awesome-LLMs-meet-genomes/count.svg" />
 </p>
 
 
