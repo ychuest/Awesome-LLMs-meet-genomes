@@ -15,7 +15,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 [![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychuest.ychuest-badge)](https://github.com/ychuest/Awesome-LLMs-meet-genomes)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychuest.Awesome-LLMs-meet-genomes)](https://github.com/ychuest/Awesome-LLMs-meet-genomes)
 
 <p align="center"> 
   Visitor counts<br>
