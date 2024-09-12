@@ -111,9 +111,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2023.08 | **DNA language models are powerful zero-shot predictors of non-coding variant effects** |   arXiv    | [link](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v1) |                              [link](https://github.com/songlab-cal/gpn)                               |
 
 
-#### Fine-tuning for Genomes
+#### Fine-tuning for Genomes and proteins
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **Fine-tuning protein language models boosts predictions across diverse tasks** |    Nature Communications  | [link](https://www.nature.com/articles/s41467-024-51844-2) | [link](https://github.com/whatdoidohaha/RFA) |
 | 2024.02 | **Efficient and Scalable Fine-Tune of Language Models for Genome Understanding** |    arXiv  | [link](https://arxiv.org/abs/2402.08075) | [link](https://github.com/zhanglab-aim/LINGO) |
 | 2023.11 | **Parameter-Efficient Fine-Tune on Open Pre-trained Transformers for Genomic Sequence** |    NeurIPS'23 Workshop GenBio | [link](https://openreview.net/forum?id=HVQoom7ip2) | - |
 
