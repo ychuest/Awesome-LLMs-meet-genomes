@@ -22,6 +22,30 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   <img src="https://profile-counter.glitch.me/Awesome-LLMs-meet-genomes/count.svg" />
 </p>
 
+## Table of Content
+- [Awesome-LLMs-meet-genomes](#awesome-llms-meet-genomes)
+  - [Table of Content](#table-of-content)
+  - [🔔 News](#-news)
+  - [Important Survey Papers](#important-survey-papers)
+  - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
+    - [Generic Base Models](#generic-base-models)
+    - [Downstream Tasks](#downstream-tasks)
+      - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
+      - [Function Prediction](#function-prediction)
+      - [Perturbation](#perturbation)
+      - [Variants and Evolution Prediction](#variants-and-evolution-prediction)
+      - [Fine-tuning for Genomes and proteins](#fine-tuning-for-genomes-and-proteins)
+      - [Interaction Prediction](#interaction-prediction)
+      - [Identification of Transcription Factor Binding Sites](#identification-of-transcription-factor-binding-sites)
+      - [Origins of Replication Rite Prediction](#origins-of-replication-rite-prediction)
+      - [DNA-binding Protein Prediction](#dna-binding-protein-prediction)
+      - [RNA Prediction](#rna-prediction)
+      - [Sequence Modeling](#sequence-modeling)
+  - [Quantization](#quantization)
+  - [Fine-tuning](#fine-tuning)
+  - [Reducing Knowledge Hallucination](#reducing-knowledge-hallucination)
+  - [Contributors](#contributors)
+---
 
 ## 🔔 News
 
@@ -34,6 +58,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 ## Important Survey Papers
 
+
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
 | 2024.07 | **Genomic Language Models: Opportunities and Challenges** |    arXiv   | [Link](https://arxiv.org/abs/2407.11435) |  - |
@@ -44,14 +69,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 
 
-## Papers
 
 
-### Genomic Large Language Models (Gene-LLMs)
+## Genomic Large Language Models (Gene-LLMs)
 
 
 
-#### General
+### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.08 | **Unlocking Efficiency: Adaptive Masking for Gene Transformer Models** |  ECAI'24    | [link](https://arxiv.org/pdf/2408.07180)  |                              [link](https://github.com/roysoumya/curriculum-GeneMask)                           |
@@ -59,12 +83,11 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.07 | **OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models** |  arXiv    | [link](https://arxiv.org/abs/2407.11242)  |                              [link](https://github.com/yangheng95/OmniGenomeBench)                           |
 | 2024.07 | **Scorpio : Enhancing Embeddings to Improve Downstream Analysis of DNA sequences** |  bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.07.19.604359v1.abstract)  |                              [link](https://github.com/EESI/Scorpio)                            |
 | 2024.07 | **DNA language model GROVER learns sequence context in the human genome (可用于蛋白质-DNA结合预测任务)** |   Nature Machine Intelligence    | [link](https://doi.org/10.1038/s42256-024-00872-0)  |                              [link](https://doi.org/10.5281/zenodo.8373202)   [tutorials](https://doi.org/10.5281/zenodo.8373158)                            |
-| 2024.06 | **GeneRAG: Enhancing Large Language Models with Gene-Related Task by Retrieval-Augmented Generation** |  bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.06.24.600176v1.abstract)  |                              [link](https://zenodo.org/records/13119834)                           |
 | 2024.05 | **Are Genomic Language Models All You Need? Exploring Genomic Language Models on Protein Downstream Tasks** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.05.20.594989v1)  |                              [link](https://huggingface.co/InstaDeepAI/nucleotide-transformer-v2-50m-3mer-multi-species)                           |
 | 2024.05 | **GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases** |   arXiv    | [link](https://arxiv.org/pdf/2405.16205)  |              -                       |
 | 2024.05 | **Self-Distillation Improves DNA Sequence Inference Databases** |   arXiv    | [link](https://arxiv.org/pdf/2405.08538)  |              [link](https://github.com/wiedersehne/FinDNA)                       |
+| 2024.04 | **Effect of tokenization on transformers for biological sequences** |   Bioinformatics    | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
 | 2024.04 | **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome** |   ICLR'24    | [link](https://openreview.net/pdf?id=oMLQB4EZE1)  |                              [link](https://github.com/MAGICS-LAB/DNABERT_2)                               |
-| 2024.04 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2024.02 | **Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)  |                                            [link](https://github.com/Huatsing-Lau/GenomicLLM)  [data](https://zenodo.org/records/10695802)               |
 | 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             [link](https://github.com/evo-design/evo)                |
 | 2024.01 | **ProkBERT family: genomic language models for microbiome applications** |    Frontiers in Microbiology    | [Link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1331233/full) |  [link](https://github.com/nbrgppcu/prokbert)   |
@@ -82,6 +105,12 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2021.02 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** |   Bioinformatics    | [link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)  |                              [link](https://github.com/jerryji1993/DNABERT)                               |
 
 
+### Downstream Tasks
+
+#### Retrieval-Augmented Generation
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.06 | **GeneRAG: Enhancing Large Language Models with Gene-Related Task by Retrieval-Augmented Generation** |  bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.06.24.600176v1.abstract)  |                              [link](https://zenodo.org/records/13119834)                           |
 
 #### Function Prediction
 
@@ -106,6 +135,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.04 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2023.10 | **GPN-MSA: an alignment-based DNA language model for genome-wide variant effect prediction** |   bioRxiv    | [link](https://www.bioRxiv.org/content/10.1101/2023.10.10.561776v1.abstract) |                              [link](https://github.com/clinfo/GPN-MSA-env)                              |
 | 2023.10 | **GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics** |   The International Journal of High Performance Computing Applications    | [link](https://journals.sagepub.com/doi/10.1177/10943420231201154) |                              [link](https://github.com/ramanathanlab/genslm)                               |
 | 2023.08 | **DNA language models are powerful zero-shot predictors of non-coding variant effects** |   arXiv    | [link](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v1) |                              [link](https://github.com/songlab-cal/gpn)                               |
@@ -124,30 +154,61 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.04 | **Genomic language model predicts protein co-regulation and function** |   nature communications     | [link](https://www.nature.com/articles/s41467-024-46947-9)  |                               [link](https://github.com/y-hwang/gLM)                              |
 | 2024.01 | **Gene-associated Disease Discovery Powered by Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2401.09490) |                              -                               |
+
+
+
+####  Identification of Transcription Factor Binding Sites
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **BertSNR: an interpretable deep learning framework for single-nucleotide resolution identification of transcription factor binding sites based on DNA language model** |   Bioinformatics    | [link](https://doi.org/10.1093/bioinformatics/btae461) |                              [link](https://github.com/lhy0322/BertSNR)                               |
+| 2024.05 | **BERT-TFBS: a novel BERT-based model for predicting transcription factor binding sites by transfer learning** |   Briefings in Bioinformatics    | [link](https://doi.org/10.1093/bib/bbae195) |                              [link](https://github.com/ZX1998-12/BERT-TFBS)                               |
+| 2024.01 | **Multiomics-integrated deep language model enables in silico genome-wide detection of transcription factor binding site in unexplored biosamples** |   Bioinformatics    | [link](https://doi.org/10.1093/bioinformatics/btae013) |                              -                               |
+
+
+
+#### Origins of Replication Rite Prediction
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.01 | **PLANNER: a multi-scale deep language model for the origins of replication site prediction** |   IEEE Journal of Biomedical and Health Informatics    | [link](https://ieeexplore.ieee.org/abstract/document/10380693) |                        -                               |
+
+#### DNA-binding Protein Prediction
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **Improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein** |   Nature Communications    | [link](https://www.nature.com/articles/s41467-024-52293-7) |                              [link](https://github.com/pengsl-lab/ESM-DBP)                               |
+| 2024.07 | **Prediction of Protein-DNA Binding Sites Based on Protein Language Model and Deep Learning** |   International Conference on Intelligent Computing    | [link](https://link.springer.com/chapter/10.1007/978-981-97-5692-6_28) |                              -                              |
+| 2024.01 | **Predictive Recognition of DNA-binding Proteins Based on Pre-trained Language Model BERT** |   Journal of Bioinformatics and Computational Biology   | [link](https://doi.org/10.1142/s0219720023500282 ) |                              -                               |
+| 2024.01 | **Protein–DNA binding sites prediction based on pre-trained protein language model and contrastive learning** |   Briefings in Bioinformatics   | [link](https://doi.org/10.1093/bib/bbad488) |                              [link](https://github.com/YAndrewL/clape)                               |
 | 2022.09 | **Improving language model of human genome for DNA–protein binding prediction based on task-specific pre-training** |   Interdisciplinary Sciences: Computational Life Sciences    | [link](https://link.springer.com/article/10.1007/s12539-022-00537-9) |                              [link](https://github.com/lhy0322/TFBert)                               |
 
 
 
-
-#### RNA Prediction
+#### RNA Prediction 
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 ✨✨✨| **Single-sequence protein-RNA complex structure prediction by geometric attention-enabled pairing of biological language models** |   bioRxiv    | [link](https://doi.org/10.1101/2024.07.27.605468) |                              [link](https://github.com/Bhattacharya-Lab/ProRNA3D-single)                               |
 | 2024.05 | **RNAErnie: Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning** |   Nature Machine Intelligence    | [link](https://www.nature.com/articles/s42256-024-00836-4) |                              [link](https://github.com/CatIIIIIIII/RNAErnie)                               |
 | 2024.02 | **RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks** |   arXiv    | [link](https://arxiv.org/abs/2403.00043) |                              [link](https://github.com/lbcb-sci/RiNALMo)                               |
 | 2023.10 | **Multiple sequence alignment-based RNA language model and its application to structural inference** |   Nucleic Acids Research    | [link](https://academic.oup.com/nar/article/52/1/e3/7369930?login=false) |                             [link](https://github.com/yikunpku/RNA-MSM)                               |
 | 2023.07 | **Uni-RNA: Universal Pre-trained Models Revolutionize RNA Research** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.07.11.548588v1) |                              -                               |
 | 2023.06 | **Prediction of Multiple Types of RNA Modifications via Biological Language Model** |   TCBB    | [link](https://ieeexplore.ieee.org/document/10146457) |                              [link](https://github.com/abhhba999/MRM-BERT)                               |
-| 2023.02 | **Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction** |   biorxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.01.31.526427v1) |                             [link](https://github.com/chenkenbio/SpliceBERT)                               |
+| 2023.02 | **Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.01.31.526427v1) |                             [link](https://github.com/chenkenbio/SpliceBERT)                               |
 
 
-### Quantization
+#### Sequence Modeling
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 ✨✨✨| **VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling** |  ICML'24    | [link](https://arxiv.org/pdf/2405.10812)  |                              [link](https://github.com/Lupin1998/VQDNA)                           |
+| 2024.06 | **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** |   ICML’24    | [link](https://arxiv.org/abs/2403.03234) |                              [link](https://github.com/kuleshov-group/caduceus)                               |
+| 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
+
+## Quantization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **Low-Rank Quantization-Aware Training for LLMs** |    arXiv  | [link](https://arxiv.org/abs/2406.06385) | [link](https://github.com/Qualcomm-AI-research/lr-qat) |
 
 
-### Fine-tuning
+## Fine-tuning
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.07 | **LoRA+: Efficient Low Rank Adaptation of Large Models** |    ICML'24   | [link](https://icml.cc/virtual/2024/poster/34209) | [link](https://github.com/nikhil-ghosh-berkeley/loraplus) |
@@ -157,7 +218,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 
 
-### Reducing Knowledge Hallucination
+## Reducing Knowledge Hallucination
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models** |    ICML'24  | [link](https://openreview.net/forum?id=JCG0KTPVYy) | [link](https://github.com/shiliu-egg/ICML2024_COFT) |
