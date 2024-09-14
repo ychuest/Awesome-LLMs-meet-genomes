@@ -231,8 +231,12 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   <li><a href="https://github.com/kebijuelun/Awesome-LLM-Learning">Awesome-LLM-Learning</a></li>
   <li><a href="https://github.com/HICAI-ZJU/Scientific-LLM-Survey">Scientific-LLM-Survey (Biological & Chemical Domains)</a></li>
   <li><a href="https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models">LLM-FineTuning-Large-Language-Models</a></li>
+  <li><a href="https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning">Awesome-llms-fine-tuning (Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs))</a></li>
   <li><a href="https://github.com/nancheng58/Awesome-LLM4RS-Papers">Awesome-LLM4RS-Papers</a></li>
+  <li><a href="https://github.com/WLiK/LLM4Rec-Awesome-Papers">LLM4Rec-Awesome-Papers (A list of awesome papers and resources of recommender system on large language model (LLM))</a></li>
+  <li><a href="https://github.com/codefuse-ai/Awesome-Code-LLM">Awesome-Code-LLM (A curated list of language modeling researches for code and related datasets)</a></li>
 </ol>
+
 
 
 
