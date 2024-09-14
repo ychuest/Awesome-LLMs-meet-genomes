@@ -44,6 +44,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Quantization](#quantization)
   - [Fine-tuning](#fine-tuning)
   - [Reducing Knowledge Hallucination](#reducing-knowledge-hallucination)
+  - [Other Related Awesome Repository](#other-related-awesome-repository)
   - [Contributors](#contributors)
 ---
 
@@ -225,6 +226,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 
 
+## Other Related Awesome Repository
+<ol style="list-style-type: decimal-leading-zero;">
+  <li><a href="https://github.com/kebijuelun/Awesome-LLM-Learning">Awesome-LLM-Learning</a></li>
+  <li><a href="https://github.com/HICAI-ZJU/Scientific-LLM-Survey">Scientific-LLM-Survey (Biological & Chemical Domains)</a></li>
+  <li><a href="https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models">LLM-FineTuning-Large-Language-Models</a></li>
+  <li><a href="https://github.com/nancheng58/Awesome-LLM4RS-Papers">Awesome-LLM4RS-Papers</a></li>
+</ol>
 
 
 
