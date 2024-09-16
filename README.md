@@ -50,6 +50,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 ## 🔔 News
 
+-🧬✔️ [2024/09] Benchmarks for classification of genomic sequences [link](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks)
 - 💥 [2024/08] Some real-world experience in training LLMs [link](https://mp.weixin.qq.com/s/ItpCTCcMjTWQJtgpvdwTfw).
 - 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA).
 - 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g).
@@ -201,7 +202,11 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.07 ✨✨✨| **VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling** |  ICML'24    | [link](https://arxiv.org/pdf/2405.10812)  |                              [link](https://github.com/Lupin1998/VQDNA)                           |
 | 2024.06 | **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** |   ICML’24    | [link](https://arxiv.org/abs/2403.03234) |                              [link](https://github.com/kuleshov-group/caduceus)                               |
+| 2024.05 🏋️🏋️ | **Self-Distillation Improves DNA Sequence Inference** |   arXiv    | [link](https://arxiv.org/abs/2405.08538) |                              [link](https://github.com/wiedersehne/FinDNA)                               |
+| 2024.04 | **A Sparse and Wide Neural Network Model for DNA Sequences** |   SRNN    | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4806928) |                              [link](https://github.com/wiedersehne/SwanDNA)                               |
+| 2024.03 | **Self-supervised learning for DNA sequences with circular dilated convolutional networks** |   Neural Networks    | [link](https://doi.org/10.1016/j.neunet.2023.12.002) |                              [link](https://github.com/wiedersehne/cdilDNA)                               |
 | 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
+
 
 ## Quantization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
