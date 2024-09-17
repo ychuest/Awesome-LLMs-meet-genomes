@@ -50,7 +50,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 ## 🔔 News
 
--🧬✔️ [2024/09] Benchmarks for classification of genomic sequences [link](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks)
+- 🧬✔️ [2024/09] **Benchmarks for classification of genomic sequences** [link](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks).
 - 💥 [2024/08] Some real-world experience in training LLMs [link](https://mp.weixin.qq.com/s/ItpCTCcMjTWQJtgpvdwTfw).
 - 💥 [2024/08] Three ways of Fine-tuning [link](https://mp.weixin.qq.com/s/MWRW6zZKbK1xJRNsNDOquA).
 - 💥 [2024/08] Visualisation of the Transformer Principle [link](https://mp.weixin.qq.com/s/7RBWwf4bQF31E0BySeSx9g).
