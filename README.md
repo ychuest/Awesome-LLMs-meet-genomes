@@ -204,7 +204,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.07 ✨✨✨| **VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling** |  ICML'24    | [link](https://arxiv.org/pdf/2405.10812)  |                              [link](https://github.com/Lupin1998/VQDNA)                           |
 | 2024.06 | **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** |   ICML’24    | [link](https://arxiv.org/abs/2403.03234) |                              [link](https://github.com/kuleshov-group/caduceus)                               |
 | 2024.06 | **Contrastive pre-training for sequence based genomics models** |   bioRxiv    | [link](https://doi.org/10.1101/2024.06.10.598319) |                              [link](https://github.com/ksenia007/cGen)                               |
-| 2024.05 🏋️ | **Self-Distillation Improves DNA Sequence Inference** |   arXiv    | [link](https://arxiv.org/abs/2405.08538) |                              [link](https://github.com/wiedersehne/FinDNA)                               |
+| 2024.05 🏋️🏋️| **Self-Distillation Improves DNA Sequence Inference** |   arXiv    | [link](https://arxiv.org/abs/2405.08538) |                              [link](https://github.com/wiedersehne/FinDNA)                               |
 | 2024.04 | **A Sparse and Wide Neural Network Model for DNA Sequences** |   SRNN    | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4806928) |                              [link](https://github.com/wiedersehne/SwanDNA)                               |
 | 2024.03 | **Self-supervised learning for DNA sequences with circular dilated convolutional networks** |   Neural Networks    | [link](https://doi.org/10.1016/j.neunet.2023.12.002) |                              [link](https://github.com/wiedersehne/cdilDNA)                               |
 | 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
@@ -223,6 +223,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2021.10 | **LoRA: Low-Rank Adaptation of Large Language Models** |    arXiv   | [link](https://arxiv.org/abs/2106.09685) | [link](https://github.com/microsoft/LoRA) |
 | 2024.07 | **DoRA: Weight-Decomposed Low-Rank Adaptation** |   ICML'24    | [link](https://arxiv.org/abs/2402.09353)  |                       [link](https://github.com/NVlabs/DoRA)                       |
 | 2024.07 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |   ICML'24    | [link](https://arxiv.org/abs/2402.05445)  |                     [link](https://github.com/htqin/ir-qlora)                         |
+| 2024.05🏋️🏋️| **Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning** |   ACL'24    | [link](https://arxiv.org/abs/2402.13669)  |                     [link](https://github.com/sail-sg/sdft)                         |
 
 
 
