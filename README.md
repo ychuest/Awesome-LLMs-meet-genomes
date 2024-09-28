@@ -41,6 +41,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [DNA-binding Protein Prediction](#dna-binding-protein-prediction)
       - [RNA Prediction](#rna-prediction)
       - [Sequence Modeling](#sequence-modeling)
+  - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
   - [Quantization](#quantization)
   - [Fine-tuning](#fine-tuning)
   - [Reducing Knowledge Hallucination](#reducing-knowledge-hallucination)
@@ -216,9 +217,6 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.04 | **A Sparse and Wide Neural Network Model for DNA Sequences** |   SRNN    | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4806928) |                              [link](https://github.com/wiedersehne/SwanDNA)                               |
 | 2024.03 | **Self-supervised learning for DNA sequences with circular dilated convolutional networks** |   Neural Networks    | [link](https://doi.org/10.1016/j.neunet.2023.12.002) |                              [link](https://github.com/wiedersehne/cdilDNA)                               |
 | 2024.01 | **ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution** |   bioRxiv    | [link](https://doi.org/10.1101/2024.01.18.576206) |                              [link](https://github.com/ZHymLumine/ProtHyena)                               |
-
-
-
 
 
 ## Basics of Sequence Modeling
