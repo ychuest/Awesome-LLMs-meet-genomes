@@ -33,14 +33,14 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
       - [Function Prediction](#function-prediction)
       - [Perturbation](#perturbation)
-      - [Variants and Evolution Prediction](#variants-and-evolution-prediction)
+      - [**Variants and Evolution Prediction**](#variants-and-evolution-prediction)
       - [Fine-tuning for Genomes and proteins](#fine-tuning-for-genomes-and-proteins)
       - [Interaction Prediction](#interaction-prediction)
       - [Identification of Transcription Factor Binding Sites](#identification-of-transcription-factor-binding-sites)
       - [Origins of Replication Rite Prediction](#origins-of-replication-rite-prediction)
       - [DNA-binding Protein Prediction](#dna-binding-protein-prediction)
       - [RNA Prediction](#rna-prediction)
-      - [Sequence Modeling](#sequence-modeling)
+      - [**Sequence Modeling**](#sequence-modeling)
   - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
   - [Quantization](#quantization)
   - [Fine-tuning](#fine-tuning)
@@ -81,6 +81,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **dnaGrinder: a lightweight and high-capacity genomic foundation model** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2409.15697)  |                              -                               |
 | 2024.08 | **Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision** |    Bioinformatics Advances   | [link](https://doi.org/10.1093/bioadv/vbae117)  |                              [link](https://github.itap.purdue.edu/Clan-labs/ENBED)                               |
 | 2024.08 | **Unlocking Efficiency: Adaptive Masking for Gene Transformer Models** |  ECAI'24    | [link](https://arxiv.org/pdf/2408.07180)  |                              [link](https://github.com/roysoumya/curriculum-GeneMask)                           |
 | 2024.07 ✨✨✨| **VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling** |  ICML'24    | [link](https://arxiv.org/pdf/2405.10812)  |                              [link](https://github.com/Lupin1998/VQDNA)                           |
@@ -222,6 +223,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Basics of Sequence Modeling
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **dnaGrinder: a lightweight and high-capacity genomic foundation model** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2409.15697)  |                              -                               |
 | 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2309.16354) |                              [link](https://github.com/transformer-vq/transformer_vq)                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
 | 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
