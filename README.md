@@ -218,15 +218,17 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.04 | **A Sparse and Wide Neural Network Model for DNA Sequences** |   SRNN    | [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4806928) |                              [link](https://github.com/wiedersehne/SwanDNA)                               |
 | 2024.03 | **Self-supervised learning for DNA sequences with circular dilated convolutional networks** |   Neural Networks    | [link](https://doi.org/10.1016/j.neunet.2023.12.002) |                              [link](https://github.com/wiedersehne/cdilDNA)                               |
 | 2024.01 | **ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution** |   bioRxiv    | [link](https://doi.org/10.1101/2024.01.18.576206) |                              [link](https://github.com/ZHymLumine/ProtHyena)                               |
+| 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
 
 
 ## Basics of Sequence Modeling
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.09 | **dnaGrinder: a lightweight and high-capacity genomic foundation model** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2409.15697)  |                              -                               |
+| 2024.09 | **Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling** |    arXiv   | [link](
+https://doi.org/10.48550/arXiv.2408.09453)  |                              -                               |
 | 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2309.16354) |                              [link](https://github.com/transformer-vq/transformer_vq)                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
-| 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyenadna)                               |
+
 
 
 ## Quantization
