@@ -64,7 +64,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-| 2024.07 | **Genomic Language Models: Opportunities and Challenges** |    arXiv   | [Link](https://arxiv.org/abs/2407.11435) |  - |
+| 2024.09 | **Genomic Language Models: Opportunities and Challenges** |    arXiv   | [Link](https://arxiv.org/abs/2407.11435) |  - |
 | 2024.07 | **Scientific Large Language Models: A Survey on Biological & Chemical Domains** |    arXiv   | [Link](https://arxiv.org/abs/2401.14656) |  [link](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
 | 2024.01 | **Large language models in bioinformatics: applications and perspectives** |    arXiv    | [Link](https://arxiv.org/abs/2401.04155v1) |  - |
 | 2023.11 | **To Transformers and Beyond: Large Language Models for the Genome** |    arXiv    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
@@ -226,7 +226,8 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.09 | **Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2408.09453)  |                              -                               |
 | 2024.08 | **SE(3)-Hyena Operator for Scalable Equivariant Learning** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
-| 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2309.16354) |                              [link](https://github.com/transformer-vq/transformer_vq)                               |
+| 2024.04 | **LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory** |    IJCAI'24   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
+| 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2404.11163) |                              -                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
 
 
