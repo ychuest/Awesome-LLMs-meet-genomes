@@ -149,6 +149,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### Fine-tuning for Genomes and proteins
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **Fine-tuning sequence-to-expression models on personal genome and transcriptome data** |    bioRxiv  | [link](https://doi.org/10.1101/2024.09.23.614632) | [link](https://github.com/ni-lab/finetuning-enformer) |
 | 2024.08 | **Enhancing recognition and interpretation of functional phenotypic sequences through fine-tuning pre-trained genomic models** |    Journal of Translational Medicine  | [link](https://link.springer.com/article/10.1186/s12967-024-05567-z) | [link](https://github.com/GeorgeBGM/Genome_Fine-Tuning) |
 | 2024.08 | **Fine-tuning protein language models boosts predictions across diverse tasks** |    Nature Communications  | [link](https://www.nature.com/articles/s41467-024-51844-2) | [link](https://github.com/whatdoidohaha/RFA) |
 | 2024.02 | **Efficient and Scalable Fine-Tune of Language Models for Genome Understanding** |    arXiv  | [link](https://arxiv.org/abs/2402.08075) | [link](https://github.com/zhanglab-aim/LINGO) |
