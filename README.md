@@ -81,6 +81,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Long-range gene expression prediction with token alignment of large language model** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2410.01858)  |                              -                               |
 | 2024.09 | **dnaGrinder: a lightweight and high-capacity genomic foundation model** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2409.15697)  |                              -                               |
 | 2024.09 | **Designing realistic regulatory DNA with autoregressive language models** |    Genome Research   | [link](https://genome.cshlp.org/content/early/2024/09/24/gr.279142.124.abstract)  |                    -                               |
 | 2024.08 | **Understanding the Natural Language of DNA using Encoder-Decoder Foundation Models with Byte-level Precision** |    Bioinformatics Advances   | [link](https://doi.org/10.1093/bioadv/vbae117)  |                              [link](https://github.itap.purdue.edu/Clan-labs/ENBED)                               |
