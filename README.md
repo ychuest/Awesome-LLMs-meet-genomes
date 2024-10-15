@@ -30,6 +30,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
     - [Generic Base Models](#generic-base-models)
     - [Downstream Tasks](#downstream-tasks)
+      - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
       - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
       - [Function Prediction](#function-prediction)
       - [Perturbation](#perturbation)
@@ -92,6 +93,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.07 | **DNA language model GROVER learns sequence context in the human genome (可用于蛋白质-DNA结合预测任务)** |   Nature Machine Intelligence    | [link](https://doi.org/10.1038/s42256-024-00872-0)  |                              [link](https://doi.org/10.5281/zenodo.8373202)   [tutorials](https://doi.org/10.5281/zenodo.8373158)                            |
 | 2024.05 | **Are Genomic Language Models All You Need? Exploring Genomic Language Models on Protein Downstream Tasks** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.05.20.594989v1)  |                              [link](https://huggingface.co/InstaDeepAI/nucleotide-transformer-v2-50m-3mer-multi-species)                           |
 | 2024.05 | **GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases** |   arXiv    | [link](https://arxiv.org/pdf/2405.16205)  |              -                       |
+| 2024.05 | **DeepGene: An Efficient Foundation Model for Genomics based on Pan-genome Graph Transformer** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.04.24.590879v2.abstract)  |              [link](https://github.com/wds-seu/DeepGene)                       |
 | 2024.05 | **Self-Distillation Improves DNA Sequence Inference Databases** |   arXiv    | [link](https://arxiv.org/pdf/2405.08538)  |              [link](https://github.com/wiedersehne/FinDNA)                       |
 | 2024.04 | **Effect of tokenization on transformers for biological sequences** |   Bioinformatics    | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
 | 2024.04 | **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome** |   ICLR'24    | [link](https://openreview.net/pdf?id=oMLQB4EZE1)  |                              [link](https://github.com/MAGICS-LAB/DNABERT_2)                               |
@@ -112,6 +114,14 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 
 ### Downstream Tasks
+
+#### Gene Pathogenicity Prediction
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.06 | **PathoLM: Identifying pathogenicity from the DNA sequence through the Genome Foundation Model** |   arXiv    | [link](https://arxiv.org/pdf/2406.13133)  |                             -                            |
+| 2024.06 | **Gene Pathogenicity Prediction using Genomic Foundation Models** |   AAAI'24 Spring Symposium on Clinical Foundation Models    | [link](https://www.researchgate.net/profile/Boulbaba-Ben-Amor/publication/381319158_Gene_Pathogenicity_Prediction_using_Genomic_Foundation_Models/links/6669151ca54c5f0b946001ac/Gene-Pathogenicity-Prediction-using-Genomic-Foundation-Models.pdf)  |                             -                            |
+
+
 
 #### Retrieval-Augmented Generation
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
