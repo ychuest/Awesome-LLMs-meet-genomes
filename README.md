@@ -269,6 +269,9 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models** |    ICML'24  | [link](https://openreview.net/forum?id=JCG0KTPVYy) | [link](https://github.com/shiliu-egg/ICML2024_COFT) |
 
+## Data processing
+1、[从 FASTA 文件中加载并查询基因组序列](https://github.com/meuleman/SynthSeqs/blob/main/make_data/source.py)
+2、[DNABERT2 Fine-Tuning for DHS Specificity Prediction](https://github.com/Kelvinmao/DNABERT_fintune)
 
 
 ## Other Related Awesome Repository
