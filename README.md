@@ -271,13 +271,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.06 | **Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models** |    ICML'24  | [link](https://openreview.net/forum?id=JCG0KTPVYy) | [link](https://github.com/shiliu-egg/ICML2024_COFT) |
 
 ## Data processing
-1、[从 FASTA 文件中加载并查询基因组序列](https://github.com/meuleman/SynthSeqs/blob/main/make_data/source.py).
-2、[DNABERT2 Fine-Tuning for DHS Specificity Prediction](https://github.com/Kelvinmao/DNABERT_fintune).
-3、[Scaling-Laws-of-Genomic](https://github.com/wds-seu/Scaling-Laws-of-Genomic).
-4、[Deafness-mutation-sites](https://github.com/Cqerliu/Deafness-mutation-sites).
-5、[DNABERT-2_CNN_BiLSTM](https://github.com/Cqerliu/DNABERT-2_CNN_BiLSTM).
-6、[1_Train_HG](https://github.com/mitiau/G-DNABERT/blob/master/1_Train_HG.ipynb).
-7、[dbtk-dnabert](https://github.com/DLii-Research/dbtk-dnabert).
+1、[从 FASTA 文件中加载并查询基因组序列](https://github.com/meuleman/SynthSeqs/blob/main/make_data/source.py).  
+2、[DNABERT2 Fine-Tuning for DHS Specificity Prediction](https://github.com/Kelvinmao/DNABERT_fintune).  
+3、[Scaling-Laws-of-Genomic](https://github.com/wds-seu/Scaling-Laws-of-Genomic).  
+4、[Deafness-mutation-sites](https://github.com/Cqerliu/Deafness-mutation-sites).  
+5、[DNABERT-2_CNN_BiLSTM](https://github.com/Cqerliu/DNABERT-2_CNN_BiLSTM).  
+6、[1_Train_HG](https://github.com/mitiau/G-DNABERT/blob/master/1_Train_HG.ipynb).  
+7、[dbtk-dnabert](https://github.com/DLii-Research/dbtk-dnabert).  
 
 
 
