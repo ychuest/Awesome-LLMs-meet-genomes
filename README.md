@@ -43,6 +43,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [RNA Prediction](#rna-prediction)
       - [**Sequence Modeling**](#sequence-modeling)
   - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
+  - [Tokenization](#tokenization)
   - [Quantization](#quantization)
   - [Fine-tuning](#fine-tuning)
   - [Reducing Knowledge Hallucination](#reducing-knowledge-hallucination)
@@ -245,6 +246,15 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.04 | **LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory** |    IJCAI'24   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
 | 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2404.11163) |                              -                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
+
+
+## Tokenization
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **A Comparison of Tokenization Impact in Attention Based and State Space Genomic Language Models** |    bioRxiv   | [link](https://doi.org/10.1101/2024.09.09.612081)  |                              -                               |
+| 2024.04 | **Effect of tokenization on transformers for biological sequences** |    Bioinformatics  | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
+| 2023.10 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |    	arXiv  | [link](https://doi.org/10.48550/arXiv.2310.07644)  |                              -                               |
+
 
 
 
