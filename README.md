@@ -84,6 +84,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Revisiting Convolution Architecture in the Realm of DNA Foundation Models** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=B07dLVWLyD)  |                              -                               |
 | 2024.10 | **Hyperbolic Genome Embeddings** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=NkGDNM8LB0)  |                              -                               |
 | 2024.10 | **dnaGrinder: a lightweight and high-capacity genomic foundation model** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=phWflQbLhu)  |                              -                               |
 | 2024.10 | **DNABERT-S: Pioneering Species Differentiation with Species-Aware DNA Embeddings** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=9klRFLY2TT)  |                              -                               |
