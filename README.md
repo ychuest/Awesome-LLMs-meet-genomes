@@ -84,6 +84,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA** |    NeurIPS'24   | [link](https://neurips.cc/virtual/2024/poster/96261)  |                             -                               |
 | 2024.10 | **Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning** |    NeurIPS'24   | [link](https://arxiv.org/abs/2411.02125)  |                             [link](https://github.com/abdcelikkanat/revisitingkmers)                               |
 | 2024.10 | **A long-context language model for deciphering and generating bacteriophage genomes** |    Nature Communications   | [link](https://www.nature.com/articles/s41467-024-53759-4)  |                             [link](https://github.com/lingxusb/megaDNA)                               |
 | 2024.10 | **Revisiting Convolution Architecture in the Realm of DNA Foundation Models** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=B07dLVWLyD)  |                              -                               |
