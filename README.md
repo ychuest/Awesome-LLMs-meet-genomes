@@ -259,8 +259,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Tokenization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Theoretical Analysis of Byte-Pair Encoding** |    	arXiv   | [link](https://arxiv.org/abs/2411.08671)  |                             -                               |
+| 2024.10 | **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA** |    NeurIPS'24   | [link](https://openreview.net/pdf?id=AQ1umQL7dZ)  |                             [link](https://github.com/qiaoqiaoLF/MxDNA)                               |
+| 2024.09 | **BPE Gets Picky: Efficient Vocabulary Refinement During Tokenizer Training** |    EMNLP'24   | [link](https://arxiv.org/abs/2409.04599)  |                              [link](https://github.com/pchizhov/picky_bpe)                               |
 | 2024.09 | **A Comparison of Tokenization Impact in Attention Based and State Space Genomic Language Models** |    bioRxiv   | [link](https://doi.org/10.1101/2024.09.09.612081)  |                              -                               |
+| 2024.04 | **Scaffold-BPE: Enhancing Byte Pair Encoding for Large Language Models with Simple and Effective Scaffold Token Removal** |    arXiv  | [link](https://arxiv.org/abs/2404.17808)  |                              [link](https://github.com/Aaron-LHR/Scaffold-BPE)                               |
 | 2024.04 | **Effect of tokenization on transformers for biological sequences** |    Bioinformatics  | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
+| 2024.02 | **Tokenization Is More Than Compression** |    arXiv  | [link](https://papers.cool/arxiv/search?highlight=1&query=tokenization&show=675)  |                              -                               |
 | 2023.10 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |    	arXiv  | [link](https://doi.org/10.48550/arXiv.2310.07644)  |                              -                               |
 
 
