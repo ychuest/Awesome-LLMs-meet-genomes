@@ -84,7 +84,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **DNA Language Models for RNA Analyses** |    	arXiv   | [link](https://arxiv.org/abs/2411.11808)  |                             -                               |
+| 2024.11 | **Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models** |    	arXiv   | [link](https://arxiv.org/abs/2411.11808)  |                             -                               |
 | 2024.11 | **DNA Language Models for RNA Analyses** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=TOUrnb1EaG)  |                             -                               |
 | 2024.10 | **Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models** |    NeurIPS'24   | [link](https://openreview.net/pdf?id=AQ1umQL7dZ)  |                             [link](https://github.com/qiaoqiaoLF/MxDNA)                               |
 | 2024.10 | **Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning** |    NeurIPS'24   | [link](https://arxiv.org/abs/2411.02125)  |                             [link](https://github.com/abdcelikkanat/revisitingkmers)                               |
