@@ -84,6 +84,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **VIRALpre: Genomic Foundation Model Embedding Fused with K-mer Feature for Virus Identification** |    bioRxiv   | [link](https://www.biorxiv.org/content/10.1101/2024.11.12.623150v1.abstract)  |                             -                              |
 | 2024.11 | **BEACON: Benchmark for Comprehensive RNA Tasks and Language Models** |    NeurIPS'24   | [link](https://openreview.net/forum?id=q2IeJByeSM#discussion)  |                             [link](https://github.com/terry-r123/RNABenchmark)                              |
 | 2024.11 | **DNA Language Models for RNA Analyses** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=TOUrnb1EaG)  |                             -                               |
 | 2024.10 | **Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models** |    NeurIPS'24   | [link](https://openreview.net/pdf?id=AQ1umQL7dZ)  |                             [link](https://github.com/qiaoqiaoLF/MxDNA)                               |
