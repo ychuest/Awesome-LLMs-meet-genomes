@@ -264,6 +264,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Tokenization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Enhancing Large Language Models through Adaptive Tokenizers** |    	NeurIPS'24   | [link](https://openreview.net/forum?id=3H1wqEdK4z)  |                             -                               |
 | 2024.11 | **Theoretical Analysis of Byte-Pair Encoding** |    	arXiv   | [link](https://arxiv.org/abs/2411.08671)  |                             -                               |
 | 2024.10 | **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA** |    NeurIPS'24   | [link](https://openreview.net/pdf?id=AQ1umQL7dZ)  |                             [link](https://github.com/qiaoqiaoLF/MxDNA)                               |
 | 2024.09 | **BPE Gets Picky: Efficient Vocabulary Refinement During Tokenizer Training** |    EMNLP'24   | [link](https://arxiv.org/abs/2409.04599)  |                              [link](https://github.com/pchizhov/picky_bpe)                               |
