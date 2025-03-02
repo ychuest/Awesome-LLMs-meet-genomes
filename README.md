@@ -85,6 +85,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Enhancing DNA Foundation Models to Address Masking Inefficiencies** |    arXiv  | [link](https://arxiv.org/abs/2502.18405)  |                             -                              |
 | 2025.02 | **GENERator: A Long-Context Generative Genomic Foundation Model** |    arXiv  | [link](https://arxiv.org/abs/2502.07272)  |                             [link](https://github.com/GenerTeam/GENERator)                              |
 | 2025.02 | **Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning** |    arXiv  | [link](https://arxiv.org/abs/2502.03499)  |                             [link](https://huggingface.co/collections/zehui127/omni-dna-67a2230c352d4fd8f4d1a4bd)                              |
 | 2025.01 | **MutBERT: Probabilistic Genome Representation Improves Genomics Foundation Models** |    BioXiv  | [link](https://www.biorxiv.org/content/10.1101/2025.01.23.634452v1.abstract)  |                             [link](https://github.com/ai4nucleome/mutBERT)                              |
