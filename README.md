@@ -261,6 +261,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Basics of Sequence Modeling
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Linear Attention for Efficient Bidirectional Sequence Modeling** |    arXiv   | [link](https://arxiv.org/abs/2502.16249)  |                              [link](https://github.com/LIONS-EPFL/LION)                               |
 | 2024.10 | **LongMamba: Enhancing Mamba's Long-Context Capabilities via Training-Free Receptive Field Enlargement** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=fMbLszVO1H)  |                              -                               |
 | 2024.09 | **Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2408.09453)  |                              -                               |
 | 2024.08 | **SE(3)-Hyena Operator for Scalable Equivariant Learning** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
