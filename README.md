@@ -85,6 +85,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics** |    bioXiv  | [link](https://www.biorxiv.org/content/10.1101/2025.02.26.640468v2)  |                             [link](https://github.com/HelloWorldLTY/UKBioLM)                             |
 | 2025.03 | **Enhancing DNA Foundation Models to Address Masking Inefficiencies** |    arXiv  | [link](https://arxiv.org/abs/2502.18405)  |                             -                              |
 | 2025.02 | **HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model** |    arXiv  | [link](https://arxiv.org/abs/2502.10807)  |                             -                              |
 | 2025.02 | **GENERator: A Long-Context Generative Genomic Foundation Model** |    arXiv  | [link](https://arxiv.org/abs/2502.07272)  |                             [link](https://github.com/GenerTeam/GENERator)                              |
@@ -172,10 +173,12 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.02 | **A SNP Foundation Model: Application in Whole-Genome Haplotype Phasing and Genotype Imputation** |  BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.01.29.635579v1) |                              -                              |
 | 2025.01 | **A DNA language model based on multispecies alignment predicts the effects of genome-wide variants** |   Nature Biotechnology    | [link](https://www.nature.com/articles/s41587-024-02511-w) |                              [link](https://github.com/clinfo/GPN-MSA-env)                              |
+| 2024.11 | **Leveraging genomic deep learning models for non-coding variant effect prediction** |   ArXiv    | [link](https://arxiv.org/abs/2411.11158)  |            -      |
 | 2024.04 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2023.10 | **GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics** |   The International Journal of High Performance Computing Applications    | [link](https://journals.sagepub.com/doi/10.1177/10943420231201154) |                              [link](https://github.com/ramanathanlab/genslm)                               |
-| 2023.08 | **DNA language models are powerful zero-shot predictors of non-coding variant effects** |   arXiv    | [link](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v1) |                              [link](https://github.com/songlab-cal/gpn)                               |
+| 2023.08 | **DNA language models are powerful predictors of genome-wide variant effects** |   PNAS    | [link](https://www.pnas.org/doi/10.1073/pnas.2311219120) |                              [link](https://github.com/songlab-cal/gpn)                               |
 
 
 #### Fine-tuning for Genomes and proteins
