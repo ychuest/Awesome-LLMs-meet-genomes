@@ -321,6 +321,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 6、[1_Train_HG](https://github.com/mitiau/G-DNABERT/blob/master/1_Train_HG.ipynb).  
 7、[dbtk-dnabert](https://github.com/DLii-Research/dbtk-dnabert).  
 8、[DNABERT2_Tokenizer](https://github.com/ChaozhongLiu/LBM_Series/blob/main/notebooks/DNABERT2_Tokenizer.ipynb).  
+9、[处理序列的R脚本](https://github.com/raphaelmourad/Mistral-DNA/tree/main/scriptR)
 
 
 
