@@ -85,6 +85,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **HydraRNA: a hybrid architecture based full-length RNA language model** |    bioXiv  | [link](https://www.biorxiv.org/content/10.1101/2025.03.06.641765v1)  |                             [link](https://github.com/GuipengLi/HydraRNA)                             |
 | 2025.03 | **Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics** |    bioXiv  | [link](https://www.biorxiv.org/content/10.1101/2025.02.26.640468v2)  |                             [link](https://github.com/HelloWorldLTY/UKBioLM)                             |
 | 2025.03 | **Enhancing DNA Foundation Models to Address Masking Inefficiencies** |    arXiv  | [link](https://arxiv.org/abs/2502.18405)  |                             -                              |
 | 2025.02 | **HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model** |    arXiv  | [link](https://arxiv.org/abs/2502.10807)  |                             -                              |
