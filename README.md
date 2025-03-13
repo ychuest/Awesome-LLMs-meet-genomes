@@ -67,6 +67,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2025.03 | **Biological Sequence with Language Model Prompting: A Survey** |    arXiv   | [Link](https://arxiv.org/abs/2503.04135) |  - |
 | 2025.01 | **Large Language Models for Bioinformatics** |    arXiv   | [Link](https://arxiv.org/abs/2501.06271) |  - |
 | 2024.09 | **Genomic Language Models: Opportunities and Challenges** |    arXiv   | [Link](https://arxiv.org/abs/2407.11435) |  - |
 | 2024.07 | **Scientific Large Language Models: A Survey on Biological & Chemical Domains** |    arXiv   | [Link](https://arxiv.org/abs/2401.14656) |  [link](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
