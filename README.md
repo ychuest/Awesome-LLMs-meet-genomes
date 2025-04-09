@@ -248,6 +248,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### **Sequence Modeling**
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences** |    bioXiv  | [link](https://arxiv.org/abs/2503.16351)  |                             -                             |
 | 2024.11 | **Unveiling Protein-DNA Interdependency: Harnessing Unified Multimodal Sequence Modeling, Understanding and Generation** |  	-    | -  |        [link](https://github.com/ai4protein/ProDMM)        |
 | 2024.09 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |  	arXiv    | [link](https://doi.org/10.48550/arXiv.2310.07644)  |        -         |
 | 2024.08 | **LitGene: a transformer-based model that uses contrastive learning to integrate textual information into gene representations** |  bioRxiv    | [link](https://doi.org/10.1101/2024.08.07.606674)  |                 [link](https://github.com/vinash85/LitGene)|
