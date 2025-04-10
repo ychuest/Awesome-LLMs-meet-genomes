@@ -44,6 +44,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [**Sequence Modeling**](#sequence-modeling)
   - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
   - [Tokenization](#tokenization)
+  - [Position Code](#position-code)
   - [Quantization](#quantization)
   - [Fine-tuning](#fine-tuning)
   - [Reducing Knowledge Hallucination](#reducing-knowledge-hallucination)
@@ -291,7 +292,11 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.02 | **Tokenization Is More Than Compression** |    arXiv  | [link](https://papers.cool/arxiv/search?highlight=1&query=tokenization&show=675)  |                              -                               |
 | 2023.10 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |    	arXiv  | [link](https://doi.org/10.48550/arXiv.2310.07644)  |                              -                               |
 
-
+## Position Code
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.03 | **YaRN: Efficient Context Window Extension of Large Language Models** |    	ICLR'24  | [link](https://openreview.net/forum?id=wHBfxhZu1u)  |                              [link](https://github.com/jquesnelle/yarn)                               |
+| 2024.01 | **Roformer: Enhanced transformer with rotary position embedding** |    	Neurocomputing  | [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011864)  |                              [link](https://github.com/lucidrains/rotary-embedding-torch)                               |
 
 
 ## Quantization
