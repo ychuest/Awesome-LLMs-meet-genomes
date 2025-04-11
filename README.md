@@ -249,6 +249,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### **Sequence Modeling**
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **Leveraging State Space Models in Long Range Genomics** |    ICLR'25 workshop  | [link](https://arxiv.org/abs/2503.16351)  |                             -                             |
 | 2025.03 | **Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences** |    arXiv  | [link](https://arxiv.org/abs/2503.16351)  |                             -                             |
 | 2024.11 | **Unveiling Protein-DNA Interdependency: Harnessing Unified Multimodal Sequence Modeling, Understanding and Generation** |  	-    | -  |        [link](https://github.com/ai4protein/ProDMM)        |
 | 2024.09 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |  	arXiv    | [link](https://doi.org/10.48550/arXiv.2310.07644)  |        -         |
