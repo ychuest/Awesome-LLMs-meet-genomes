@@ -284,6 +284,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.08 | **SE(3)-Hyena Operator for Scalable Equivariant Learning** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
 | 2024.04 | **LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory** |    IJCAI'24   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
 | 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2404.11163) |                              -                               |
+| 2024.02 | **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts** |   arXiv    | [link](https://arxiv.org/abs/2401.04081) |                              -                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
 
 
