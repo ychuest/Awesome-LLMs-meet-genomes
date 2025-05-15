@@ -309,6 +309,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Position Code
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation** |    	arXiv  | [link](https://github.com/LuLuLuyi/DPE)  |                              -                               |
 | 2025.04 | **Rethinking RoPE: A Mathematical Blueprint for N-dimensional Positional Encoding** |    	arXiv  | [link](https://arxiv.org/abs/2504.06308)  |                              -                               |
 | 2024.03 | **YaRN: Efficient Context Window Extension of Large Language Models** |    	ICLR'24  | [link](https://openreview.net/forum?id=wHBfxhZu1u)  |                              [link](https://github.com/jquesnelle/yarn)                               |
 | 2024.01 | **Roformer: Enhanced transformer with rotary position embedding** |    	Neurocomputing  | [link](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011864)  |                              [link](https://github.com/lucidrains/rotary-embedding-torch)                               |
