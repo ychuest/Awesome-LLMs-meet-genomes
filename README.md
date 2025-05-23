@@ -188,6 +188,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.04 | **Species-aware DNA language models capture regulatory elements and their evolution** |   Genome Biology    | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03221-x)  |            [link](https://github.com/gagneurlab/SpeciesLM) |
 | 2023.10 | **GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics** |   The International Journal of High Performance Computing Applications    | [link](https://journals.sagepub.com/doi/10.1177/10943420231201154) |                              [link](https://github.com/ramanathanlab/genslm)                               |
 | 2023.08 | **DNA language models are powerful predictors of genome-wide variant effects** |   PNAS    | [link](https://www.pnas.org/doi/10.1073/pnas.2311219120) |                              [link](https://github.com/songlab-cal/gpn)                               |
+| 2022.05 | **SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study** |   ACL'22    | [link](https://aclanthology.org/2022.bionlp-1.14/) |                              [link](https://github.com/hltchkust/snp2vec)                               |
 
 
 #### Fine-tuning for Genomes and proteins
