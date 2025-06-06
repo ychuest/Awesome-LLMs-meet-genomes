@@ -327,6 +327,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.05 | **Fast and Low-Cost Genomic Foundation Models via Outlier Removal** |    ICML'25  | [link](https://arxiv.org/abs/2505.00598) | [link](https://github.com/MAGICS-LAB/GERM) |
+| 2025.05 | **GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance** |    	arXiv  | [link](https://arxiv.org/abs/2505.23839) | [link](https://github.com/zaixizhang/GeneBreaker/tree/main) |
 
 
 ## Quantization
