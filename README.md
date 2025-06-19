@@ -281,6 +281,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Basics of Sequence Modeling
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.06 | **Comba: Improving Bilinear RNNs with Closed-loop Control** |    arXiv   | [link](https://arxiv.org/abs/2506.02475)  |                              [link](https://github.com/AwesomeSeq/Comba-triton)                               |
 | 2025.05 | **Efficient Long-range Language Modeling with Self-supervised Causal Retrieval** |    ICML'25   | [link](https://arxiv.org/abs/2410.01651)  |                              -                               |
 | 2025.04 | **Learnable Multi-Scale Wavelet Transformer: A Novel Alternative to Self-Attention** |    arXiv   | [link](https://arxiv.org/abs/2504.08801)  |                              -                               |
 | 2025.03 | **Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts** |    ICLR'25   | [link](https://openreview.net/pdf?id=HKIvuZxGbl)  |                              [link](https://github.com/OpenSparseLLMs/Linear-MoE)                               |
