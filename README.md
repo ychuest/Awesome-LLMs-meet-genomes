@@ -91,6 +91,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.06 | **eccDNAMamba: A Pre-Trained Model for Ultra-Long eccDNA Sequence Analysis** |    ICML'25  | [link](https://arxiv.org/abs/2506.18940)  |                             [link](https://github.com/zzq1zh/GenAI-Lab)                             |
 | 2025.06 | **SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model** |    ICLR'25  | [link](https://arxiv.org/abs/2506.01833)  |                             [link](https://github.com/ZhuJiwei111/SPACE)                             |
 | 2025.04 | **Bridging Sequence-Structure Alignment in RNA Foundation Models** |    AAAI'25  | [link](https://ojs.aaai.org/index.php/AAAI/article/view/35500)  |                             [link](https://github.com/yangheng95/OmniGenBench)                             |
 | 2025.03 | **HydraRNA: a hybrid architecture based full-length RNA language model** |    bioXiv  | [link](https://www.biorxiv.org/content/10.1101/2025.03.06.641765v1)  |                             [link](https://github.com/GuipengLi/HydraRNA)                             |
