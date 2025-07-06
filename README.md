@@ -152,8 +152,8 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### DNA Sequence Design
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   arXiv    | [link](https://arxiv.org/abs/2505.20578)  |                             -                            |
-| 2024.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
+| 2025.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   arXiv    | [link](https://arxiv.org/abs/2505.20578)  |                             -                            |
+| 2025.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
 
 ### Downstream Tasks
 
