@@ -29,6 +29,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Important Survey Papers](#important-survey-papers)
   - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
     - [Generic Base Models](#generic-base-models)
+    - [DNA Sequence Design](#dna-sequence-design)
     - [Downstream Tasks](#downstream-tasks)
       - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
       - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
@@ -146,6 +147,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2022.08 | **MoDNA: motif-oriented pre-training for DNA language model** |   BCB'22    | [link](https://dl.acm.org/doi/10.1145/3535508.3545512)  |            [link](https://github.com/uta-smile/MoDNA)                                                |
 | 2021.02 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** |   Bioinformatics    | [link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)  |                              [link](https://github.com/jerryji1993/DNABERT)                               |
 
+
+
+### DNA Sequence Design
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   arXiv    | [link](https://arxiv.org/abs/2505.20578)  |                             -                            |
+| 2024.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
 
 ### Downstream Tasks
 
