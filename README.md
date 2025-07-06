@@ -30,6 +30,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
     - [Generic Base Models](#generic-base-models)
     - [DNA Sequence Design](#dna-sequence-design)
+    - [Sequence-to-Function](#sequence-to-function)
     - [Downstream Tasks](#downstream-tasks)
       - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
       - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
@@ -154,6 +155,14 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   arXiv    | [link](https://arxiv.org/abs/2505.20578)  |                             -                            |
 | 2025.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
+
+
+
+### Sequence-to-Function
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.06 | **AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1.abstract)  |                             [link](https://github.com/google-deepmind/alphagenome)                            |
+
 
 ### Downstream Tasks
 
