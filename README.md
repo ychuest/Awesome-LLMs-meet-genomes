@@ -93,6 +93,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.07 | **BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects** |    	arXiv | [link](https://arxiv.org/abs/2507.05265)  |                             [link](https://github.com/BiomedSciAI/biomed-multi-omic)                             |
 | 2025.07 | **TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling** |    AAAI'26  Submission | [link](https://arxiv.org/abs/2507.19229)  |                             -                             |
 | 2025.06 | **Generalized biological foundation model with unified nucleic acid and protein language** |    Nature Machine Intelligence  | [link](https://www.nature.com/articles/s42256-025-01044-4)  |                             [link](https://github.com/LucaOne/LucaOne)                             |
 | 2025.06 | **eccDNAMamba: A Pre-Trained Model for Ultra-Long eccDNA Sequence Analysis** |    ICML'25  | [link](https://arxiv.org/abs/2506.18940)  |                             [link](https://github.com/zzq1zh/GenAI-Lab)                             |
