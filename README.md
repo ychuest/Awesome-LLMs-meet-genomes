@@ -155,7 +155,9 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   arXiv    | [link](https://arxiv.org/abs/2505.20578)  |                             -                            |
 | 2025.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
+| 2024.10 | **Absorb & Escape: Overcoming Single Model Limitations in Generating Genomic Sequences** |   NeurIPS'24    | [link](https://arxiv.org/abs/2410.21345)  |                             [link](https://github.com/Zehui127/Absorb-Escape)                            |
 | 2024.05 | **Dirichlet Flow Matching with Applications to DNA Sequence Design** |   ICML'25    | [link](https://arxiv.org/abs/2402.05841)  |                             [link](https://github.com/HannesStark/dirichlet-flow-matching)                            |
+
 
 
 
@@ -163,7 +165,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.06 | **AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1.abstract)  |                             [link](https://github.com/google-deepmind/alphagenome)                            |
-
+| 2025.04 | **HyDrop v2: Scalable atlas construction for training sequence-to-function models** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.04.02.646792v2.abstract)  |                             [link](https://github.com/aertslab/)                            |
 
 ### Downstream Tasks
 
