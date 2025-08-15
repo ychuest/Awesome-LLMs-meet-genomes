@@ -168,6 +168,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.06 | **AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1.abstract)  |                             [link](https://github.com/google-deepmind/alphagenome)                            |
+| 2025.06 | **Assessing large-scale genomic language models in predicting personal gene expression: promises and limitations** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.07.09.664024v1)  |                             [link](https://github.com/StatBiomed/gLM2X-Tower)                            |
 | 2025.04 | **HyDrop v2: Scalable atlas construction for training sequence-to-function models** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.04.02.646792v2.abstract)  |                             [link](https://github.com/aertslab/)                            |
 
 ### Downstream Tasks
