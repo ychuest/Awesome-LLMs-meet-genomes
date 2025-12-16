@@ -93,6 +93,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.11 | **MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging** |    	AAAI'26 Oral | [link](https://arxiv.org/abs/2511.14806)  |                             -                            |
 | 2025.07 | **JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model** |    	arXiv | [link](https://arxiv.org/abs/2505.17257)  |                             [link](https://github.com/Qihao-Duan/JanusDNA)                             |
 | 2025.07 | **BMFM-DNA: A SNP-aware DNA foundation model to capture variant effects** |    	arXiv | [link](https://arxiv.org/abs/2507.05265)  |                             [link](https://github.com/BiomedSciAI/biomed-multi-omic)                             |
 | 2025.07 | **TrinityDNA: A Bio-Inspired Foundational Model for Efficient Long-Sequence DNA Modeling** |    AAAI'26  Submission | [link](https://arxiv.org/abs/2507.19229)  |                             -                             |
