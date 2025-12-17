@@ -163,6 +163,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2025.03 | **Regulatory dna sequence design with reinforcement learning** |   ICLR'25    | [link](https://arxiv.org/abs/2503.07981)  |                             [link](https://github.com/yangzhao1230/TACO)                            |
 | 2025.02 | **DNAdesign: feature-aware in silico design of synthetic DNA through mutation** |   Bioinformatics'25    | [link](https://academic.oup.com/bioinformatics/article/41/2/btaf052/7994462)  |                             [link](https://github.com/wangyingfei/DNAdesign)                            |
 | 2024.10 | **Absorb & Escape: Overcoming Single Model Limitations in Generating Genomic Sequences** |   NeurIPS'24    | [link](https://arxiv.org/abs/2410.21345)  |                             [link](https://github.com/Zehui127/Absorb-Escape)                            |
+| 2024.09 | **Designing realistic regulatory DNA with autoregressive language models** |   Genome Research    | [link](https://genome.cshlp.org/content/34/9/1411.short)  |                             [link](https://zenodo.org/records/12668907)                            |
 | 2024.05 | **Dirichlet Flow Matching with Applications to DNA Sequence Design** |   ICML'25    | [link](https://arxiv.org/abs/2402.05841)  |                             [link](https://github.com/HannesStark/dirichlet-flow-matching)                            |
 
 
