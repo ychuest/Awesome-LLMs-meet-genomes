@@ -31,6 +31,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
     - [Generic Base Models](#generic-base-models)
     - [DNA Sequence Design](#dna-sequence-design)
     - [DNA Multimodal](#dna-multimodal)
+    - [RNA Foundation Models](#rna-foundation-models)
     - [Sequence-to-Function](#sequence-to-function)
     - [Downstream Tasks](#downstream-tasks)
       - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
@@ -176,6 +177,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2025.10 | **BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model** |   NeurIPS'25    | [link](https://arxiv.org/pdf/2505.23579)  |                             [link](https://github.com/bowang-lab/BioReason)                            |
 
 
+### RNA Foundation Models
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Orthrus: Towards Evolutionary and Functional RNA Foundation Models** |   NeurIPS'24    | [link](https://openreview.net/pdf/8b0a8a61d89bce2d144ea675d9411c2a2b50c0f1.pdf)  |                             [link](https://github.com/bowang-lab/Orthrus)                            |
 
 
 
