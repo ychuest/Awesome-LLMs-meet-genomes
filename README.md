@@ -30,6 +30,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
     - [Generic Base Models](#generic-base-models)
     - [DNA Sequence Design](#dna-sequence-design)
+    - [DNA Multimodal](#dna-multimodal)
     - [Sequence-to-Function](#sequence-to-function)
     - [Downstream Tasks](#downstream-tasks)
       - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
@@ -166,6 +167,14 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.10 | **Absorb & Escape: Overcoming Single Model Limitations in Generating Genomic Sequences** |   NeurIPS'24    | [link](https://arxiv.org/abs/2410.21345)  |                             [link](https://github.com/Zehui127/Absorb-Escape)                            |
 | 2024.09 | **Designing realistic regulatory DNA with autoregressive language models** |   Genome Research    | [link](https://genome.cshlp.org/content/34/9/1411.short)  |                             [link](https://zenodo.org/records/12668907)                            |
 | 2024.05 | **Dirichlet Flow Matching with Applications to DNA Sequence Design** |   ICML'25    | [link](https://arxiv.org/abs/2402.05841)  |                             [link](https://github.com/HannesStark/dirichlet-flow-matching)                            |
+
+
+
+### DNA Multimodal
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.10 | **BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model** |   NeurIPS'25    | [link](https://arxiv.org/pdf/2505.23579)  |                             [link](https://github.com/bowang-lab/BioReason)                            |
+
 
 
 
