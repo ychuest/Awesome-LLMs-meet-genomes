@@ -17,10 +17,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 [![GitHub forks][fork-img]][fork-url]
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=ychuest.Awesome-LLMs-meet-genomes)](https://github.com/ychuest/Awesome-LLMs-meet-genomes)
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor counts<br>
   <img src="https://profile-counter.glitch.me/Awesome-LLMs-meet-genomes/count.svg" />
-</p>
+</p> -->
 
 ## Table of Content
 - [Awesome-LLMs-meet-genomes](#awesome-llms-meet-genomes)
