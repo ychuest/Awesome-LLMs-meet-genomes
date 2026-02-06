@@ -95,6 +95,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### Generic Base Models
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.01 | **DNACHUNKER: Learnable Tokenization for DNA Language Models** |    ICML'26  | [link](https://arxiv.org/abs/2601.03019)  |                             [link](https://github.com/icecream126/DNAChunker_final)                              |
 | 2026.01 | **GENERator: A Long-Context Generative Genomic Foundation Model** |    arXiv  | [link](https://arxiv.org/abs/2502.07272)  |                             [link](https://github.com/GenerTeam/GENERator)                              |
 | 2025.11 | **Context-Aware Regularization with Markovian Integration for Attention-Based Nucleotide Analysis** |    	NeurIPS'25 | [link](https://arxiv.org/abs/2507.09378)  |                             [link](https://github.com/EESI/carmania)                            |
 | 2025.11 | **MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging** |    	AAAI'26 Oral | [link](https://arxiv.org/abs/2511.14806)  |                             -                            |
