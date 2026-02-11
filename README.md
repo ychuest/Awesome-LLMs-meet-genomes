@@ -203,7 +203,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2026.02 | **Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction** |    ICLR'26 Oral  | [link](https://openreview.net/forum?id=wwPSfcf5Pj)  |                             [link](https://github.com/yangzhao1230/Pirsm)                              |
-| 2025.02 | **Learning to discover regulatory elements for gene expression prediction** |   ICLR'25 Oral    | [link](https://arxiv.org/pdf/2502.13991)  |                             [link](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp)[data](https://huggingface.co/datasets/xingyusu/GeneExp/tree/main)                            |
+| 2025.02 | **Learning to discover regulatory elements for gene expression prediction** |   ICLR'25 Oral    | [link](https://arxiv.org/pdf/2502.13991)  |                             [link](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp)  [data](https://huggingface.co/datasets/xingyusu/GeneExp/tree/main)                            |
 
 
 ### Downstream Tasks
