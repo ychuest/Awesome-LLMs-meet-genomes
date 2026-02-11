@@ -33,6 +33,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
     - [DNA Multimodal](#dna-multimodal)
     - [RNA Foundation Models](#rna-foundation-models)
     - [Sequence-to-Function](#sequence-to-function)
+    - [Sequence-to-Expression](#sequence-to-expression)
     - [Downstream Tasks](#downstream-tasks)
       - [Gene Pathogenicity Prediction](#gene-pathogenicity-prediction)
       - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
@@ -163,6 +164,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### DNA Sequence Design
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.01 | **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design** |   ICML'26    | [link](https://openreview.net/forum?id=NFffW9tBmC)  |                             -                            |
 | 2025.05 | **Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution** |   ICML'24 Best paper    | [link](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v2.full)  |                             [link](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)                            |
 | 2025.05 | **Multi-Objective-Guided Discrete Flow Matchingfor Controllable Biological Sequence Design** |   ICML'25    | [link](https://openreview.net/pdf?id=mZitkzP92N)  |                             [link](https://github.com/ynuozhang/MOG-DFM)                            |
 | 2025.05 | **Ctrl-DNA: Controllable Cell-Type-Specific Regulatory DNA Design via Constrained RL** |   NeurIPS'25    | [link](https://openreview.net/pdf/56d32e6dccec0c78a8218c3c4cef541721609d05.pdf)  |                             [link](https://github.com/bowang-lab/Ctrl-DNA)                            |
@@ -195,6 +197,13 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2025.11 | **Nona: A unifying multimodal masking framework for functional genomics** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.11.06.687036v2)  |                             -                            |
 | 2025.06 | **Assessing large-scale genomic language models in predicting personal gene expression: promises and limitations** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.07.09.664024v1)  |                             [link](https://github.com/StatBiomed/gLM2X-Tower)                            |
 | 2025.04 | **HyDrop v2: Scalable atlas construction for training sequence-to-function models** |   BioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2025.04.02.646792v2.abstract)  |                             [link](https://github.com/aertslab/)                            |
+
+### Sequence-to-Expression
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.02 | **Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction** |    ICLR'26 Oral  | [link](https://openreview.net/forum?id=wwPSfcf5Pj)  |                             [link](https://github.com/yangzhao1230/Pirsm)                              |
+| 2025.02 | **Learning to discover regulatory elements for gene expression prediction** |   ICLR'25 Oral    | [link](https://arxiv.org/pdf/2502.13991)  |                             [link](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp)[data](https://huggingface.co/datasets/xingyusu/GeneExp/tree/main)                            |
+
 
 ### Downstream Tasks
 
