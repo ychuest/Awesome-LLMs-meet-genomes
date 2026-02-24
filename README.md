@@ -319,7 +319,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### **Sequence Modeling**
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.05 | **GeneZip: Region-Aware Compression for Long Context DNA Modeling** |    arXiv  | [link](https://arxiv.org/pdf/2602.17739v1)  |                             -                             |
+| 2026.02 | **GeneZip: Region-Aware Compression for Long Context DNA Modeling** |    arXiv  | [link](https://arxiv.org/pdf/2602.17739v1)  |                             -                             |
 | 2025.05 | **HAD: Hybrid Architecture Distillation Outperforms Teacher in Genomic Sequence Modeling** |    arXiv  | [link](https://arxiv.org/abs/2505.20836)  |                             -                             |
 | 2025.04 | **Leveraging State Space Models in Long Range Genomics** |    ICLR'25 workshop  | [link](https://arxiv.org/abs/2504.06304)  |                             -                             |
 | 2025.03 | **Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences** |    arXiv  | [link](https://arxiv.org/abs/2503.16351)  |                             -                             |
