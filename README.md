@@ -74,6 +74,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2026.02 | **Generative Artificial Intelligence for Biology: Toward Unifying Models, Algorithms, and Modalities** |    arXiv  | [Link](https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.10002066/v2) |  - |
 | 2025.05 | **Back to recurrent processing at the crossroad of transformers and state-space models** |    Nature Machine Intelligence  | [Link](https://www.nature.com/articles/s42256-025-01034-6) |  - |
 | 2025.03 | **Transformers and genome language models** |    Nature Machine Intelligence  | [Link](https://www.nature.com/articles/s42256-025-01007-9) |  - |
 | 2025.03 | **Language modelling techniques for analysing the impact of human genetic variation** |    arXiv   | [Link](https://arxiv.org/abs/2503.10655) |  - |
