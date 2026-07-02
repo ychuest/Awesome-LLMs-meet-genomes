@@ -27,6 +27,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
   - [Table of Content](#table-of-content)
   - [🔔 News](#-news)
   - [Important Survey Papers](#important-survey-papers)
+  - [Important Benchmarks](#important-benchmarks)
   - [Genomic Large Language Models (Gene-LLMs)](#genomic-large-language-models-gene-llms)
     - [Generic Base Models](#generic-base-models)
     - [DNA Sequence Design](#dna-sequence-design)
@@ -87,6 +88,11 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2023.01 | **Applications of transformer-based language models in bioinformatics: a survey** |    Bioinformatics Advances    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
 
 
+## Important Benchmarks
+| Year | Title                                                        |    Venue    |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2026.06 | **GENEB: Why Genomic Models Are Hard to Compare** |    ICML'26  | [Link](https://arxiv.org/abs/2606.04525) |  [Huggingface](https://huggingface.co/datasets/darlednik/geneb-tasks) |
+| 2025.11 | **DNALONGBENCH: a benchmark suite for long-range DNA prediction tasks** |    nature communications  | [Link](https://www.nature.com/articles/s41467-025-65077-4) |  [Link](https://github.com/ma-compbio/DNALONGBENCH) |
 
 
 
@@ -367,6 +373,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Tokenization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling** |    	ICML'26   | [link](https://arxiv.org/abs/2606.04552)  |                             [link](https://github.com/darlednik/ICML-LDARNet)                            |
 | 2026.04 | **EvoLen: Evolution-Guided Tokenization for DNA Language Model** |    	arXiv   | [link](https://arxiv.org/abs/2604.08698)  |                             -                            |
 | 2026.01 | **PatchDNA: A Flexible and Biologically-Informed Alternative to Tokenization for DNA** |    	ICLR'26   | [link](https://openreview.net/forum?id=AFZeojzjoG)  |                             -                            |
 | 2025.11 | **MergeDNA: Context-aware Genome Modeling with Dynamic Tokenization through Token Merging** |    	AAAI'26 Oral | [link](https://arxiv.org/abs/2511.14806)  |                             -                            |
