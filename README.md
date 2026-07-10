@@ -49,6 +49,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [RNA Prediction](#rna-prediction)
       - [**Sequence Modeling**](#sequence-modeling)
       - [**Reinforcement learning**](#reinforcement-learning)
+      - [**Evolution**](#evolution)
   - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
   - [Tokenization](#tokenization)
   - [Position Code](#position-code)
@@ -360,7 +361,10 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2026.06 | **Emergent Biological Realism in RL-Trained DNA Language Models** |   ICML’26    | [link](https://icml.cc/virtual/2026/poster/60994) |                              -                               |
 
 
-
+#### **Evolution**
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **Predicting evolutionary rate as a pretraining task improves genome language model representations** |   ICML’26    | [link](https://openreview.net/forum?id=FOIP4Blm4F&noteId=fw0lVaz0CB) |                              [link](https://github.com/microsoft/gamba)                               |
 
 
 ## Basics of Sequence Modeling
