@@ -48,6 +48,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
       - [DNA-binding Protein Prediction](#dna-binding-protein-prediction)
       - [RNA Prediction](#rna-prediction)
       - [**Sequence Modeling**](#sequence-modeling)
+      - [**Reinforcement learning**](#reinforcement-learning)
   - [Basics of Sequence Modeling](#basics-of-sequence-modeling)
   - [Tokenization](#tokenization)
   - [Position Code](#position-code)
@@ -175,6 +176,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ### DNA Sequence Design
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **Interpretability Driven Evolutionary Approach for the Design of Biological Sequences** |   ICML'26    | [link](https://openreview.net/forum?id=gaq60U4jvU)  |                             [link](https://github.com/pandeyakash23/IDEAS)                            |
 | 2026.01 | **Iterative Distillation for Reward-Guided Fine-Tuning of Diffusion Models in Biomolecular Design** |   ICML'26    | [link](https://openreview.net/forum?id=NFffW9tBmC)  |                             -                            |
 | 2025.05 | **Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution** |   ICML'24 Best paper    | [link](https://www.biorxiv.org/content/10.1101/2024.05.23.595630v2.full)  |                             [link](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)                            |
 | 2025.05 | **Multi-Objective-Guided Discrete Flow Matchingfor Controllable Biological Sequence Design** |   ICML'25    | [link](https://openreview.net/pdf?id=mZitkzP92N)  |                             [link](https://github.com/ynuozhang/MOG-DFM)                            |
@@ -330,7 +332,8 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 #### **Sequence Modeling**
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2026.02 | **GeneZip: Region-Aware Compression for Long Context DNA Modeling** |    arXiv  | [link](https://arxiv.org/pdf/2602.17739v1)  |                             -                             |
+| 2026.06 | **Adaptive DNA Sequence Modeling via Synergistic Plasticity Units** |    ICML'26  | [link](https://arxiv.org/pdf/2602.17739v1)  |                             -                             |
+| 2026.02 | **GeneZip: Region-Aware Compression for Long Context DNA Modeling** |    ICML'26  | [link](https://arxiv.org/pdf/2602.17739v1)  |                             [link](https://github.com/AndyJZhao/GeneZip)                             |
 | 2025.05 | **HAD: Hybrid Architecture Distillation Outperforms Teacher in Genomic Sequence Modeling** |    arXiv  | [link](https://arxiv.org/abs/2505.20836)  |                             -                             |
 | 2025.04 | **Leveraging State Space Models in Long Range Genomics** |    ICLR'25 workshop  | [link](https://arxiv.org/abs/2504.06304)  |                             -                             |
 | 2025.03 | **Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences** |    arXiv  | [link](https://arxiv.org/abs/2503.16351)  |                             -                             |
@@ -350,6 +353,14 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 | 2024.03 | **Self-supervised learning for DNA sequences with circular dilated convolutional networks** |   Neural Networks    | [link](https://doi.org/10.1016/j.neunet.2023.12.002) |                              [link](https://github.com/wiedersehne/cdilDNA)                               |
 | 2024.01 | **ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution** |   bioRxiv    | [link](https://doi.org/10.1101/2024.01.18.576206) |                              [link](https://github.com/ZHymLumine/ProtHyena)                               |
 | 2023.06 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** |   NeurIPS’23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) |                              [link](https://github.com/HazyResearch/hyena-dna)                               |
+
+#### **Reinforcement learning**
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **Emergent Biological Realism in RL-Trained DNA Language Models** |   ICML’26    | [link](https://icml.cc/virtual/2026/poster/60994) |                              -                               |
+
+
+
 
 
 ## Basics of Sequence Modeling
@@ -373,6 +384,7 @@ Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting L
 ## Tokenization
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **BioToken and BioFM – Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models** |    	ICML'26   | [link](https://openreview.net/forum?id=Vmt2iPfH5z)  |                             [link](https://github.com/m42-health/biofm-eval)                            |
 | 2026.06 | **LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling** |    	ICML'26   | [link](https://arxiv.org/abs/2606.04552)  |                             [link](https://github.com/darlednik/ICML-LDARNet)                            |
 | 2026.04 | **EvoLen: Evolution-Guided Tokenization for DNA Language Model** |    	arXiv   | [link](https://arxiv.org/abs/2604.08698)  |                             -                            |
 | 2026.01 | **PatchDNA: A Flexible and Biologically-Informed Alternative to Tokenization for DNA** |    	ICLR'26   | [link](https://openreview.net/forum?id=AFZeojzjoG)  |                             -                            |
