@@ -11,15 +11,18 @@
 
 Awesome-LLMs-meet-genomes is a collection of state-of-the-art, novel, exciting LLMs methods on genomes.  It contains papers, codes, datasets, evaluations, and analyses. Any additional information about LLMs for bioinformatics is welcome, and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yangchengyjs@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
 
+## Sponsor
+
 This project is sponsored by [E-API](https://eapi.site/).
 
 E-API provides unified multi-model API access, supporting integrations and collaborations for open-source projects, developer tools, and AI applications.
 
-If you are interested in API access, joint promotion, or custom solutions, feel free to use my referral link:
+New users who register through the referral link below may receive **RMB 5 in product credits**: https://eapi.site/register?aff=3M9ZLY
 
-https://eapi.site/register?aff=3M9ZLY
+This sponsorship and referral relationship is **not affiliated with, endorsed by, or officially connected to GitHub**.
 
 [Learn more about E-API / Collaboration](https://eapi.site/)
+
 
 
 -----------------------------------
@@ -35,6 +38,7 @@ https://eapi.site/register?aff=3M9ZLY
 
 ## Table of Content
 - [Awesome-LLMs-meet-genomes](#awesome-llms-meet-genomes)
+  - [Sponsor](#sponsor)
   - [Table of Content](#table-of-content)
   - [🔔 News](#-news)
   - [Important Survey Papers](#important-survey-papers)
