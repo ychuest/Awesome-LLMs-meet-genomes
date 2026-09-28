@@ -102,7 +102,7 @@ This sponsorship and referral relationship is **not affiliated with, endorsed by
 | 2024.07 | **Scientific Large Language Models: A Survey on Biological & Chemical Domains** |    arXiv   | [Link](https://arxiv.org/abs/2401.14656) |  [link](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) |
 | 2024.01 | **Large language models in bioinformatics: applications and perspectives** |    arXiv    | [Link](https://arxiv.org/abs/2401.04155v1) |  - |
 | 2023.11 | **To Transformers and Beyond: Large Language Models for the Genome** |    arXiv    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
-| 2023.01 | **Applications of transformer-based language models in bioinformatics: a survey** |    Bioinformatics Advances    | [Link](https://arxiv.org/abs/2311.07621) |  -   |
+| 2023.01 | **Applications of transformer-based language models in bioinformatics: a survey** |    Bioinformatics Advances    | [Link](https://doi.org/10.1093/bioadv/vbad001) |  -   |
 
 
 ## Important Benchmarks
@@ -173,7 +173,7 @@ This sponsorship and referral relationship is **not affiliated with, endorsed by
 | 2024.04 | **Effect of tokenization on transformers for biological sequences** |   Bioinformatics    | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
 | 2024.04 | **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome** |   ICLR'24    | [link](https://openreview.net/pdf?id=oMLQB4EZE1)  |                              [link](https://github.com/MAGICS-LAB/DNABERT_2)                               |
 | 2024.02 | **Exploring Genomic Large Language Models: Bridging the Gap between Natural Language and Gene Sequences** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.26.581496v1)  |                                            [link](https://github.com/Huatsing-Lau/GenomicLLM)  [data](https://zenodo.org/records/10695802)               |
-| 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             [link](https://github.com/evo-design/evo)                |\
+| 2024.02 | **Sequence modeling and design from molecular to genome scale with Evo** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)  |                                             [link](https://github.com/evo-design/evo)                |
 | 2024.01 | **ProkBERT family: genomic language models for microbiome applications** |    Frontiers in Microbiology    | [Link](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1331233/full) |  [link](https://github.com/nbrgppcu/prokbert)   |
 | 2023.09 | **The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics** |   bioRxiv    | [link](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3)  |                              [link](https://github.com/instadeepai/nucleotide-transformer)                           |
 | 2023.08 | **DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks** |   bioRxiv    | [link](https://www.bioRxiv.org/content/10.1101/2023.07.11.548628v2)  |                                             [link](https://github.com/TencentAILabHealthcare/DNAGPT)                |
@@ -394,8 +394,8 @@ This sponsorship and referral relationship is **not affiliated with, endorsed by
 | 2024.10 | **LongMamba: Enhancing Mamba's Long-Context Capabilities via Training-Free Receptive Field Enlargement** |    ICLR'25 Conference Submission   | [link](https://openreview.net/forum?id=fMbLszVO1H)  |                              -                               |
 | 2024.09 | **Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2408.09453)  |                              -                               |
 | 2024.08 | **SE(3)-Hyena Operator for Scalable Equivariant Learning** |    arXiv   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
-| 2024.04 | **LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory** |    IJCAI'24   | [link](https://doi.org/10.48550/arXiv.2407.01049)  |                              -                               |
-| 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2404.11163) |                              -                               |
+| 2024.04 | **LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory** |    IJCAI'24   | [link](https://doi.org/10.48550/arXiv.2404.11163)  |                              -                               |
+| 2024.02 | **Transformer-VQ: Linear-Time Transformers via Vector Quantization** |   ICLR’24    | [link](https://doi.org/10.48550/arXiv.2309.16354)  |                              -                               |
 | 2024.02 | **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts** |   arXiv    | [link](https://arxiv.org/abs/2401.04081) |                              -                               |
 | 2024.01 | **Scavenging Hyena: Distilling Transformers into Long Convolution Models** |    arXiv  | [link](https://doi.org/10.48550/arXiv.2401.17574) | - |
 
@@ -414,13 +414,13 @@ This sponsorship and referral relationship is **not affiliated with, endorsed by
 | 2024.11 | **Enhancing Large Language Models through Adaptive Tokenizers** |    	NeurIPS'24   | [link](https://openreview.net/forum?id=3H1wqEdK4z)  |                             -                               |
 | 2024.11 | **Theoretical Analysis of Byte-Pair Encoding** |    	arXiv   | [link](https://arxiv.org/abs/2411.08671)  |                             -                               |
 | 2024.10 | **Generation with Dynamic Vocabulary** |    EMNLP'24   | [link](https://arxiv.org/abs/2410.08481)  |                             [link](https://github.com/Maniyantingliu/generation_with_dynamic_vocabulary)                               |
-| 2024.10 | **Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models** |    EMNLP'24 Findings   | [link](https://arxiv.org/abs/2410.03258)  |                             [link](https://github.com/chatty831Adapt-BPE)                               |
+| 2024.10 | **Adaptive BPE Tokenization for Enhanced Vocabulary Adaptation in Finetuning Pretrained Language Models** |    EMNLP'24 Findings   | [link](https://arxiv.org/abs/2410.03258)  |                             [link](https://github.com/chatty831/Adapt-BPE)                              |
 | 2024.10 | **Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA** |    NeurIPS'24   | [link](https://openreview.net/pdf?id=AQ1umQL7dZ)  |                             [link](https://github.com/qiaoqiaoLF/MxDNA)                               |
 | 2024.09 | **BPE Gets Picky: Efficient Vocabulary Refinement During Tokenizer Training** |    NeurIPS'24   | [link](https://arxiv.org/abs/2409.04599)  |                              [link](https://github.com/pchizhov/picky_bpe)                               |
 | 2024.09 | **A Comparison of Tokenization Impact in Attention Based and State Space Genomic Language Models** |    bioRxiv   | [link](https://doi.org/10.1101/2024.09.09.612081)  |                              -                               |
 | 2024.04 | **Scaffold-BPE: Enhancing Byte Pair Encoding for Large Language Models with Simple and Effective Scaffold Token Removal** |    arXiv  | [link](https://arxiv.org/abs/2404.17808)  |                              [link](https://github.com/Aaron-LHR/Scaffold-BPE)                               |
 | 2024.04 | **Effect of tokenization on transformers for biological sequences** |    Bioinformatics  | [link](https://doi.org/10.1093/bioinformatics/btae196)  |                              [link](https://github.com/technion-cs-nlp/BiologicalTokenizers)                               |
-| 2024.02 | **Tokenization Is More Than Compression** |    arXiv  | [link](https://papers.cool/arxiv/search?highlight=1&query=tokenization&show=675)  |                              -                               |
+| 2024.02 | **Tokenization Is More Than Compression** |  arXiv  | [link](https://arxiv.org/abs/2402.18376)  |                              -                               |
 | 2023.10 | **Toward Understanding BERT-Like Pre-Training for DNA Foundation Models** |    	arXiv  | [link](https://doi.org/10.48550/arXiv.2310.07644)  |                              -                               |
 
 ## Position Code
